@@ -12,8 +12,8 @@
 </template>
 
 <script>
-// 这是另外一个前端人员开发的
 import Header from "./components/Header";
+// 这是我开发的
 import Swiper from './components/Swiper';
 import Icon from './components/Icon';
 import Tmh from './components/Tmh';

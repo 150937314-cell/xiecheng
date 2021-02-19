@@ -63,7 +63,7 @@ export default {
             }
         },
         getListInfo(){
-            this.$axios.get("api/list.json?city="+ this.cityName)
+            this.$axios.get("api/list.json")
             .then(res => {
                 this.arrList = res.data.data.itemList
                 console.log(this.arrList)

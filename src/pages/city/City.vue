@@ -8,7 +8,6 @@
 </template>
 
 <script>
-// 12313
 import City from "./components/Header";
 import inputText from './components/Input';
 import List from './components/List';

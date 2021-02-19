@@ -12,6 +12,7 @@
 </template>
 
 <script>
+// 这是另外一个前端人员开发的
 import Header from "./components/Header";
 import Swiper from './components/Swiper';
 import Icon from './components/Icon';

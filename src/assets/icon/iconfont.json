@@ -1,0 +1,37 @@
+{
+  "id": "2349646",
+  "name": "仿携程",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "仿携程",
+  "glyphs": [
+    {
+      "icon_id": "1166728",
+      "name": "前进箭头",
+      "font_class": "qianjinjiantou",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "1440921",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "6996234",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "18311748",
+      "name": "电 话",
+      "font_class": "dianhua",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    }
+  ]
+}

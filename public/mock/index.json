@@ -1,0 +1,101 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0e15000000yqzweE43E.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0516000000zifq4FC3C.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0o16000000zjlo37BAE.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/zg0r16000000yrvpo1109.jpg"
+      }],
+    "headerList": [{
+        "id": "0001",
+        "position": "background-position: 0 0;",
+        "desc": "攻略·景点"
+      }, {
+        "id": "0002",
+        "position": "background-position: 0 -40px;",
+        "desc": "门票·玩乐"
+      }, {
+        "id": "0003",
+        "position": "background-position: 0 -80px;",
+        "desc": "美食林"
+      }, {
+        "id": "0004",
+        "position": "background-position: 0 -120px;",
+        "desc": "周边游"
+      }, {
+        "id": "0005",
+        "position": "background-position: 0 -160px;",
+        "desc": "一日游"
+      }],
+      "bottomList":[
+        {
+            "position":"background-position: center 2px;",
+            "text":"自由行"
+        },
+        {
+            "position":"background-position: center -28px;",
+            "text":"WiFi电话卡"
+        },
+        {
+            "position":"background-position: center -58px;",
+            "text":"保险.签证"
+        },
+        {
+            "position":"background-position: center -88px;",
+            "text":"换钞.购物"
+        },
+        {
+            "position":"background-position: center -118px;",
+            "text":"向导.包车"
+        },
+        {
+            "position":"background-position: center -148px;",
+            "text":"特价机票"
+        },
+        {
+            "position":"background-position: center -178px;",
+            "text":"礼品卡"
+        },
+        {
+            "position":"background-position: center -208px;",
+            "text":"申卡.借钱"
+        },
+        {
+            "position":"background-position: center -238px;",
+            "text":"旅拍"
+        },
+        {
+            "position":"background-position: center -268px;",
+            "text":"更多"
+        }
+    ],
+
+      "activityList": [{
+        "id": "001",
+        "imgUrl": "https://dimg04.c-ctrip.com/images/700t0y000000m71h523FE_375_260_342.png"
+      },{
+        "id": "002",
+        "imgUrl":"https://images4.c-ctrip.com/target/zc0g0i0000009fvbaA666.png"
+      },{
+        "id": "003",
+        "imgUrl":"https://dimg04.c-ctrip.com/images/700b0z000000neoth8688_375_160_345.jpg"
+      },{
+        "id": "004",
+        "imgUrl":"https://dimg04.c-ctrip.com/images/700w0z000000mogkyEF78_375_160_345.jpg"
+      },{
+        "id": "005",
+        "imgUrl":"https://dimg04.c-ctrip.com/images/700a0t000000im512AB2C_375_160_345.jpg"
+      },{
+        "id": "006",
+        "imgUrl":"https://dimg04.c-ctrip.com/images/700d0s000000htvwo16C4_375_160_345.jpg"
+      }]
+  }
+}
